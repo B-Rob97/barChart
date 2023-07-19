@@ -1,0 +1,51 @@
+#chartContainer {
+  width: 1500px;
+  height: 650px;
+  background-color:ghostwhite;
+  margin: auto;
+  padding: 10px;
+}
+
+.bar {
+  width: 40px;
+  background-color: black;
+  margin-right: 10px;
+}
+ .bar-labels {
+  font-size: 12px;
+  color: black;
+  text-anchor: middle;
+  dominant-baseline: middle;
+ }
+
+ .x-axis {
+  font-size: 20px;
+  color: black;
+  border-width: 2px black;
+ }
+
+ .y-axis {
+  font-size: 20px;
+  color: black;
+  border-width: 2px black;
+ }
+
+ title {
+  font-size: 50px;
+  color: black;
+  text-align: center;
+  margin-bottom: 20px;
+ }
+
+ h1 {
+  font-size: 50px;
+  color: black;
+  text-align: center;
+  margin-bottom: 20px;
+ }
+ 
+ h4 {
+  font-size: 20px;
+  color: black;
+  text-align: center;
+ }
